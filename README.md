@@ -22,7 +22,7 @@ I enjoy building practical projects that help solve actual problems and automati
 
 ## 🚀 Featured Projects
 
-### 🔹 Wordlevs
+### 🔹 WordleVS
 A Wordle-style web game focused on clean UI, responsiveness, and user experience.
 
 <a href="https://wordle.fintu.uk" target="_blank">
@@ -45,7 +45,7 @@ A web application that helps users track and manage TV shows they are watching.
 ---
 
 ## 🎓 Background
-- B.S. in Computer Science  
+- B.S. in Computer Science (Physics Minor)
 - Experience building full-stack web apps, automation workflows, and data-driven solutions  
 - Strong emphasis on clean code, maintainability, and real-world usability
 
